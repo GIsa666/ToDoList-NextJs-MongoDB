@@ -1,0 +1,27 @@
+.formWrapper{
+    display: flex;
+    gap:12px;
+    flex-direction: column;
+    margin-top: 20px;
+    }
+    
+    .inputStyle{
+    border: 1px solid black;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    outline: none;
+    }
+    .SubmitBtn{
+        background-color: green;
+        border: 0;
+        color: white;
+        font: bold;
+        padding-left: 24px;
+        padding-right: 24px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        width: fit-content;
+    }

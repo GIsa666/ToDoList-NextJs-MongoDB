@@ -1,0 +1,28 @@
+.TopicListWrapper{
+    padding: 16px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    align-items: center;
+    border-radius: 12px;
+}
+.TopicTitle{
+    font:italic;
+    font-size: 24px;
+    line-height: 32px;
+    color: white;
+}
+.TopicDescription{
+    color: white;
+}
+.TopicBtns{
+    display: flex;
+    gap: 10px;
+}
+.LinkEdit{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,24 @@
+.NavbarWrapper{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-left: 32px;
+padding-right:32px ;
+padding-top: 12px;
+padding-bottom: 12px; 
+border-radius: 10px;
+}
+.FirstLink{
+    color: white;
+    font: bold;
+    text-decoration: none;
+   
+}
+
+
+.SecondLink{
+background: white;
+padding: 8px;
+border-radius: 3px;
+text-decoration: none;
+}
